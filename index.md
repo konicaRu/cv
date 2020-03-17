@@ -2,9 +2,9 @@
 
 ### python - стажёр
 
-Связаться со мной: [prokol35@gmail.com](prokol35@gmail.com)    [Telegram](https://t-do.ru/konica1970)
+Связаться со мной: [prokol35@gmail.com](prokol35@gmail.com)         [Telegram](https://t-do.ru/konica1970)
 
-[мои проекты GitHub](https://github.com/konicaRu)   [Мой блог на GitHub](https://konicaru.github.io./)
+[мои проекты GitHub](https://github.com/konicaRu)        [Мой блог на GitHub](https://konicaru.github.io./)
 
 Меня зовут Дмитрий Кочетов я начинающий python - разработчик живу в городе Череповец Вологодской области
 
@@ -22,13 +22,18 @@
 
 #### Дополнительное образование:
 
-> курсы Bioinformatics Institute на сайте https://stepik.org  `Программирование на Python`
+> - [x] курсы Bioinformatics Institute на сайте https://stepik.org  `Программирование на Python`
+>
 >
 > [Сертификат](https://stepik.org/cert/204366?auth=registration)
 >
-> 2017 - 2019 языковые курсы разговорного английского языка в онлайн - школе [Skyeng](https://skyeng.ru/)                                 уровень B2 — Intermediate 
+> - [x] курс на [Хакслет](https://ru.hexlet.io) "Основы командной строки"
+>
+> - [x] 2017 - 2019 языковые курсы разговорного английского языка в онлайн - школе [Skyeng](https://skyeng.ru/)                                 уровень B2 — Intermediate 
 
+#### Профессиональные навыки:
 
+> 
 
 #### Опыт работы:
 
