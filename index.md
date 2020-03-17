@@ -1,4 +1,4 @@
-#  ![](https://lh3.googleusercontent.com/aRF8YFm6xiKvdLtDFF-Rs7wYtSXOauqxjFELH4i2h_mcc4hiRL6hLzQoQt7USpJdePS8HoAXtLb-1WRH-uSSfPVbR5yjAYlIUqpJ6JVJvz9hGT4Ip8xzwhCrdIn5OTRrJbDXxEQzmohLznf2j-5sc1bZOmegx3ckyF1AkXzndzGUy7m_SKs-AviBRJtoiD7TuJSDRAoBWhWAEaXTar9AUv7cmfHrDAfQF7IO5ZEVrNelyoimIh_Dh0YZilB-E9x6WKuK6imSfSDrkwuzhZMN9Cc1t5RNIPTv64MuJBzhFmO0-McWEk2QxFALpoDtPMEAuIpPL7Kp42bm2N3LRXNH-aRvGWyUvH-TERnObu5TpRFT1lZ-azbxYyRJLMKDQ5AUT-WY2yttzG_StROfdEUJISXX5Yn9VGmNa6LqFgJAu5gFydZHw1p3oFxVQ9RIdrhQR70FChRcrZSr7jUi3aUnXzrBk2Wh9VZXdm6wTWqatz6XDBPw5wJ7xn3lYYQRfwogTEuDIZuolclmvzUJytT9QrQJY3FetbHzlRBqXAGQCAsivfKUGJsXBCPLY_iwrYaVpoLbTe5EXZ-PHaYeMMQvz3gafQF8MyNHwass38WYAXHh4Tih866Mn69n4ew1uN78xV2aopOu5al_u4UXckg4cU1_NknyKeaZcMfM-LFqMFpimhmdfbbfZcFOUF96=w200-h204-no)Кочетов Дмитрий
+#  ![](https://lh3.googleusercontent.com/aRF8YFm6xiKvdLtDFF-Rs7wYtSXOauqxjFELH4i2h_mcc4hiRL6hLzQoQt7USpJdePS8HoAXtLb-1WRH-uSSfPVbR5yjAYlIUqpJ6JVJvz9hGT4Ip8xzwhCrdIn5OTRrJbDXxEQzmohLznf2j-5sc1bZOmegx3ckyF1AkXzndzGUy7m_SKs-AviBRJtoiD7TuJSDRAoBWhWAEaXTar9AUv7cmfHrDAfQF7IO5ZEVrNelyoimIh_Dh0YZilB-E9x6WKuK6imSfSDrkwuzhZMN9Cc1t5RNIPTv64MuJBzhFmO0-McWEk2QxFALpoDtPMEAuIpPL7Kp42bm2N3LRXNH-aRvGWyUvH-TERnObu5TpRFT1lZ-azbxYyRJLMKDQ5AUT-WY2yttzG_StROfdEUJISXX5Yn9VGmNa6LqFgJAu5gFydZHw1p3oFxVQ9RIdrhQR70FChRcrZSr7jUi3aUnXzrBk2Wh9VZXdm6wTWqatz6XDBPw5wJ7xn3lYYQRfwogTEuDIZuolclmvzUJytT9QrQJY3FetbHzlRBqXAGQCAsivfKUGJsXBCPLY_iwrYaVpoLbTe5EXZ-PHaYeMMQvz3gafQF8MyNHwass38WYAXHh4Tih866Mn69n4ew1uN78xV2aopOu5al_u4UXckg4cU1_NknyKeaZcMfM-LFqMFpimhmdfbbfZcFOUF96=w200-h204-no)Кочетов Дмитрий                              
 
 ### начинающий python - разработчик
 
@@ -6,9 +6,7 @@
 
 [мои проекты GitHub](https://github.com/konicaRu)        [Мой блог на GitHub](https://konicaru.github.io./)
 
-Меня зовут Дмитрий Кочетов я начинающий python - разработчик живу в городе Череповец Вологодской области
-
-начинающий python - разработчик
+Меня зовут Дмитрий Кочетов, родился 29 декабря 1970 года я начинающий python - разработчик живу в городе Череповец Вологодской области
 
 #### Образование:
 
@@ -64,4 +62,4 @@
 
 > люблю конструировать и создавать что то новое
 >
-> люблю совершенствоваться и обучаться, разбираться как это работает
+> люблю совершенствоваться и обучаться, разбираться как все работает
