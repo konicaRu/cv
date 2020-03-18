@@ -8,7 +8,7 @@
 
 Связаться со мной: [prokol35@gmail.com](prokol35@gmail.com)         [Telegram](https://t-do.ru/konica1970)
 
-[Мои проекты на GitHub](https://github.com/konicaRu)  
+[Мои проекты на GitHub](https://github.com/konicaRu)    [Мои проекты по алгоритмам на GitHub](https://github.com/konicaRu/algorithm)
 
 [Мой блог на GitHub](https://konicaru.github.io./)
 
