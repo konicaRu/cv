@@ -51,7 +51,7 @@
 >
 > - ###### октябрь - декабрь 2019 года
 >
-> курсы Bioinformatics Institute на сайте https://stepik.org  ""Программирование на Python"
+> курсы Bioinformatics Institute на сайте [https://stepik.org](https://stepik.org)  ""Программирование на Python"
 >
 > [Сертификат](https://stepik.org/cert/204366?auth=registration)
 >
