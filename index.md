@@ -6,7 +6,7 @@
 
 ##  начинающий python - разработчик                         
 
-Связаться со мной: [prokol35@gmail.com](prokol35@gmail.com)  или  [Telegram](https://t-do.ru/konica1970)
+Связаться со мной: [prokol35@gmail.com](prokol35@gmail.com)
 
 [Мои проекты на GitHub](https://github.com/konicaRu)
 
