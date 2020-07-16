@@ -6,11 +6,11 @@
 
 ##  начинающий python - разработчик                         
 
-Связаться со мной: [prokol35@gmail.com](prokol35@gmail.com)         [Telegram](https://t-do.ru/konica1970)
+Связаться со мной: [prokol35@gmail.com](prokol35@gmail.com)  [Telegram](https://t-do.ru/konica1970)
 
-[Мои проекты на GitHub](https://github.com/konicaRu) 
+[Мои проекты на GitHub](https://github.com/konicaRu)
 
-[Мой блог на GitHub](https://konicaru.github.io./)  [ Мой Linkedin](https://www.linkedin.com/in/dmitry-kochetov-a22a345b/)
+[Мой блог на GitHub](https://konicaru.github.io./) [Мой Linkedin](https://www.linkedin.com/in/dmitry-kochetov-a22a345b/)
 
 [Cсылка на мое резюме на hh.ru](https://hh.ru/resume/6766117bff07ea9c0d0039ed1f626779763145#key-skills)
 
