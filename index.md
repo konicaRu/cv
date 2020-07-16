@@ -6,7 +6,7 @@
 
 ##  начинающий python - разработчик                         
 
-Связаться со мной: [prokol35@gmail.com](prokol35@gmail.com)
+Связаться со мной: [prokol35@gmail.com](prokol35@gmail.com), тел: +79643046505
 
 [Мои проекты на GitHub](https://github.com/konicaRu)
 
