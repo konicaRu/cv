@@ -10,9 +10,11 @@
 
 [Мои проекты на GitHub](https://github.com/konicaRu)
 
-[Мой Linkedin](https://www.linkedin.com/in/dmitry-kochetov-a22a345b/)
+[Мой Linkedin](https://www.linkedin.com/in/dimkochetov/)
 
 [Cсылка на мое резюме на hh.ru](https://hh.ru/resume/6766117bff07ea9c0d0039ed1f626779763145#key-skills)
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="ru_RU" data-type="horizontal" data-theme="light" data-vanity="dimkochetov"><a class="LI-simple-link" href='https://ru.linkedin.com/in/dimkochetov?trk=profile-badge'>Dmitry Kochetov</a></div>
 
 ------
 
