@@ -8,6 +8,8 @@
 
 Связаться со мной: [prokol35@gmail.com](prokol35@gmail.com), тел: +79643046505
 
+[Мой блог](https://konicaru.github.io/)
+
 [Мои проекты на GitHub](https://github.com/konicaRu)
 
 [Мой Linkedin](https://www.linkedin.com/in/dimkochetov/)
