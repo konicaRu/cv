@@ -114,4 +114,5 @@
 
 [prokol35@gmail.com](prokol35@gmail.com)
 
-![](Logo_Kochetov_cv.jpg)
+![](https://raw.githubusercontent.com/konicaRu/konicaru.github.io/master/pictures/Logo_Kochetov_cv.jpg)
+
