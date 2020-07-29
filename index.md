@@ -1,20 +1,18 @@
-|![](Logo_Kochetov_cv.jpg)
+------
+
+![](Logo_Kochetov_cv.jpg)
 
 ------
 
 
 
-# |![](https://raw.githubusercontent.com/konicaRu/konicaru.github.io/master/pictures/my_photo_250_cekl.jpg)|Кочетов Дмитрий 
+# ![](https://raw.githubusercontent.com/konicaRu/konicaru.github.io/master/pictures/my_photo_250_cekl.jpg)Кочетов Дмитрий 
 
 # начинающий python - разработчик                         
 
 Связаться со мной: [prokol35@gmail.com](prokol35@gmail.com), тел: +79643046505
 
-[Мой блог](https://konicaru.github.io/)
-
-[Мои проекты на GitHub](https://github.com/konicaRu)
-
-[Мой Linkedin](https://www.linkedin.com/in/dimkochetov/)
+[Мой блог](https://konicaru.github.io/) [Мои проекты на GitHub](https://github.com/konicaRu) [Мой Linkedin](https://www.linkedin.com/in/dimkochetov/)
 
 [Cсылка на мое резюме на hh.ru](https://hh.ru/resume/6766117bff07ea9c0d0039ed1f626779763145#key-skills)
 
