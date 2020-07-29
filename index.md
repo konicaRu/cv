@@ -2,7 +2,7 @@
 
 # ![](https://raw.githubusercontent.com/konicaRu/konicaru.github.io/master/pictures/my_photo_150_cekl.jpg)Кочетов Дмитрий начинающий python - разработчик        
 
-|[Cсылка на мое резюме на hh.ru](https://hh.ru/resume/6766117bff07ea9c0d0039ed1f626779763145#key-skills)|Связаться со мной: [prokol35@gmail.com](prokol35@gmail.com)|
+|[Mоё резюме на hh.ru](https://hh.ru/resume/6766117bff07ea9c0d0039ed1f626779763145#key-skills)||Связаться со мной: [prokol35@gmail.com](prokol35@gmail.com)|
 
 |[Мой блог](https://konicaru.github.io/)|[Мой GitHub](https://github.com/konicaRu)|[Мой Linkedin](https://www.linkedin.com/in/dimkochetov/)|[Мой Facebook](https://www.facebook.com/konica1970)|[Телеграмм](https://t.me/konica1970)|
 
@@ -91,15 +91,15 @@
 
 #### Бэкграунд (повод для беседы)
 
-#### Телеграмм каналы:
+##### Телеграмм каналы:
 
 > - [Стартап дня Горного Александра](https://t.me/startupoftheday)
 > - [SYNERGIS :: RUS блокчейн и крипто энтузиасты](https://t.me/synergis)
 > - [Web 3.0](https://t.me/web3news)
 
-#### **Пишу в блог**. [он здесь :)](https://github.com/konicaRu) 
+##### **Пишу в блог**. [он здесь :)](https://github.com/konicaRu) 
 
-#### Читаю книги: на некоторые делаю обзоры в блоге.
+##### Читаю книги: на некоторые делаю обзоры в блоге.
 
 > - [“В работу с головой.” Кэл Ньюпорт](https://konicaru.github.io/#в-работу-с-головой-кэл-ньюпорт)
 > - [“Изучаем Python.” Марк Луц](https://konicaru.github.io/#книга-изучаем-python-марк-луц-1)
