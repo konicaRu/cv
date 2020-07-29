@@ -1,8 +1,8 @@
+![](Logo_Kochetov_cv.jpg)
 
+# ![](https://raw.githubusercontent.com/konicaRu/konicaru.github.io/master/pictures/my_photo_150_cekl.jpg)Кочетов Дмитрий 
 
-# ![](https://raw.githubusercontent.com/konicaRu/konicaru.github.io/master/pictures/my_photo_250_cekl.jpg)Кочетов Дмитрий 
-
-# начинающий python - разработчик ![](https://raw.githubusercontent.com/konicaRu/konicaru.github.io/master/pictures/Logo_Kochetov_cv.jpg)                        
+# начинающий python - разработчик                         
 
 Связаться со мной: [prokol35@gmail.com](prokol35@gmail.com), тел: +79643046505
 
@@ -13,6 +13,8 @@
 ------
 
 Меня зовут Дмитрий Кочетов я родился 29 декабря 1970 года, я начинающий python - разработчик живу в городе Череповец Вологодской области
+
+###### обновлено 29. 07. 2020 г.
 
 #### Профессиональные навыки:
 
