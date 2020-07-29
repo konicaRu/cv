@@ -2,7 +2,7 @@
 
 #  ![](https://lh3.googleusercontent.com/gZO4qjWQLGkA8Z3VUyXVbEmdR5TBZUlB_tnrHqj2j4tGyFQY4QstUHRUW6n7oMdbOv3bU6p8Mj2rZvNMMAbxeiYAejREKTB1TPmlHtmuDZR9CEyIalxCpTw_IHTRzj5dMr1_wAH3muj7u_GPEFJdu8vbXPbpsId55QD3NyTx1-amAMrOF9YFN0MUg2d7MJMrU9AuCKPSF1tJHvr-BUjjRRSX3y_UZu1Mm4esG0rXq7sB_D4G6RlYh0G8TiuKGBwNVVWftwhDAHp4K4uee4jbrsfWe5Bg9vimhSgo4l6iCOIW1Zl_n8Q5sPz2pqu7mS8_9PY4YBcRhkJ9AreaXdJ47Y0hgQzryhvBTjq_Ezaw_oXhfa6_qDUc7BfGl9wfbuDCArJ5KsmGyplrEdPDzOpWSTSXsVDHeWXRJn-owElhWB3eMxEFQf3FeeFgki7BGRsiJfDHF8YSsI0yt057edXzJ8Gb_CVgsQ59V--S_UKRTR3aeflZIeni3Fj22u4zJ2O-aeINa9A3toHG2ALQnUkOpBXazT1NI_zZTPNkl4l_7sDtoCPgM0q6xbYJG9Zn2A9gPZ3WJZkPRYDEvSCadmP26E1HbCywQZr-RTrWYrAST7vDLdJ74Ujfk106CXDWu9FXLNEMpxaqVqmn7maX6j_Dv_zzc12cmv81zH4oZhTj9td5TMvSzN8OUWU0fO9z=w200-h204-no)
 
-# Кочетов Дмитрий 
+# Кочетов Дмитрий ![](https://raw.githubusercontent.com/konicaRu/konicaru.github.io/master/pictures/Logo_Kochetov_cv.jpg)
 
 ##  начинающий python - разработчик                         
 
