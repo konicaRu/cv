@@ -1,14 +1,8 @@
-------
-
-![](Logo_Kochetov_cv.jpg)
-
-------
-
 
 
 # ![](https://raw.githubusercontent.com/konicaRu/konicaru.github.io/master/pictures/my_photo_250_cekl.jpg)Кочетов Дмитрий 
 
-# начинающий python - разработчик                         
+# начинающий python - разработчик ![](https://raw.githubusercontent.com/konicaRu/konicaru.github.io/master/pictures/Logo_Kochetov_cv.jpg)                        
 
 Связаться со мной: [prokol35@gmail.com](prokol35@gmail.com), тел: +79643046505
 
