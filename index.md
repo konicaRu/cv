@@ -1,4 +1,4 @@
-
+*Curriculum vitae*
 
 # ![](https://raw.githubusercontent.com/konicaRu/konicaru.github.io/master/pictures/my_photo_150_cekl.jpg)Кочетов Дмитрий начинающий python - разработчик        
 
