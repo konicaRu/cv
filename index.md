@@ -1,4 +1,4 @@
-*Curriculum vitae*
+#### *Curriculum vitae*
 
 # ![](https://raw.githubusercontent.com/konicaRu/konicaru.github.io/master/pictures/my_photo_150_cekl.jpg)Кочетов Дмитрий начинающий python - разработчик        
 
@@ -78,16 +78,12 @@
 #### Навыки и увлечения:
 
 > - уверенный пользователь Adobe Photoshop
->
 > - уверенный пользователь Adobe Premiere
->
 > - уверенный пользователь CorelDRAW
->
-> - #### уверенный пользователь Microsoft Word, Microsoft Exel
->
+> - уверенный пользователь Microsoft Word, Microsoft Exel
 > - интересуюсь технологией блокчейн, криптовалютами, web 3.0
->
 > - увлекаюсь рафтингом и любительским видеомонтажом.
+> - смотрю гонки **Formula 1** с 1993 года.
 
 #### Бэкграунд (повод для беседы)
 
@@ -97,7 +93,9 @@
 > - [SYNERGIS :: RUS блокчейн и крипто энтузиасты](https://t.me/synergis)
 > - [Web 3.0](https://t.me/web3news)
 
-##### **Пишу в блог**. [он здесь :)](https://github.com/konicaRu) 
+##### **Пишу в блог:**
+
+> * [https://github.com/konicaRu](https://github.com/konicaRu) 
 
 ##### Читаю книги: на некоторые делаю обзоры в блоге.
 
