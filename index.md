@@ -1,30 +1,30 @@
 #### *Curriculum vitae*
 
-# ![](https://raw.githubusercontent.com/konicaRu/konicaru.github.io/master/pictures/my_photo_150_cekl.jpg)Кочетов Дмитрий начинающий python - разработчик        
+# ![](https://raw.githubusercontent.com/konicaRu/konicaru.github.io/master/pictures/my_photo_150_cekl.jpg)Кочетов Дмитрий начинающий аналитик данных        
 
-|[Mоё резюме на hh.ru](https://hh.ru/resume/6766117bff07ea9c0d0039ed1f626779763145#key-skills)|Связаться со мной: [prokol35@gmail.com](prokol35@gmail.com)|
+|[Mоё резюме на hh.ru](https://hh.ru/resume/6766117bff07ea9c0d0039ed1f626779763145#key-skills)|Связаться со мной: [dimkochetow@gmail.com](dimkochetow@gmail.com)|
 
 |[Мой блог](https://konicaru.github.io/)|[Мой GitHub](https://github.com/konicaRu)|[Мой Linkedin](https://www.linkedin.com/in/dimkochetov/)|[Мой Facebook](https://www.facebook.com/konica1970)|[Телеграмм](https://t.me/konica1970)|
 
 ------
 
-*обновлял 29 июля 2020 года.*
+*обновлял 5 августа 2020 года.*
 
-Меня зовут Дмитрий Кочетов я родился 29 декабря 1970 года, я начинающий python - разработчик живу в городе Череповец Вологодской области
+Меня зовут Дмитрий Кочетов я родился 29 декабря 1970 года, я начинающий аналитик данных живу в городе Череповец Вологодской области
 
-С июля  2020 учусь на аналитика данных в **Яндекс. Практикуме**. Нравится копаться в данных и решать задачи с помощью программирования.
+С июля  2020 учусь на аналитика данных в **Яндекс. Практикуме**. Мне нравится копаться в данных и решать задачи с помощью их анализа.
 
-Прошёл курсы по  Python статистике  и SQL. Интересуюсь анализом и представлением информации. Постоянно учусь новому.
+Прошёл курсы по  Python, статистике  и SQL. Интересуюсь анализом и представлением информации. Постоянно учусь новому.
 
 До этого с 1990 года работал как частный предприниматель в розничной торговле и строительстве. Сейчас хочу начать работу в IT - сфере. В данный момент активно ищу работу.
 
-Английский на уровне B2 по [тесту Cambridge Assessment](https://www.cambridgeenglish.org/test-your-english/general-english/).
+Мой английский на уровне B2 по [тесту Cambridge Assessment](https://www.cambridgeenglish.org/test-your-english/general-english/).
 
 ### Обучение - аналитика:
 
 **Аналитик данных**, [Яндекс.Практикум](https://praktikum.yandex.ru/data-analyst/) (июль 2020)
 
-> - **Модуль 1** (июль-август 2020): предобработка данных (пропуски, типы данных, дубликаты, категоризация данных), исследовательский анализ данных, статистический анализ данных.
+> - SQL, Python (numpy/pandas/plotly/matplotlib/scikit-learn/seaborn/requests/ BeautifulSoup/SciPy), Jupyter Notebook, Excel, Google Sheets, ETL-скрипты, Git, ML(линейная регрессия, логистическая регрессия, бутстрап, решающие деревья). Формулировка и оценка гипотез, A/A A/B тесты. Дашборды на Tableau. 
 
 #### Дополнительное образование: 
 
@@ -73,7 +73,7 @@
 >
 > - **в 1990 году** 
 >
-> закончил Ленинградский энергетический техникум по специальности техник - теплотехник, ремонт и обслуживание парогенераторных установок атомных электростанций
+> закончил Ленинградский энергетический техникум по специальности техник - теплотехник, ремонт и обслуживание парогенераторных установок атомных электростанций профильные предметы: теплотехника, ядерная физика, математика
 
 #### Навыки и увлечения:
 
@@ -89,6 +89,9 @@
 
 ##### Телеграмм каналы:
 
+> - [LEFT JOIN](https://t.me/leftjoin)
+> - [настенька и графики](https://t.me/nastengraph)
+> - [GoPractice!](https://t.me/gopractice)
 > - [Стартап дня Горного Александра](https://t.me/startupoftheday)
 > - [SYNERGIS :: RUS блокчейн и крипто энтузиасты](https://t.me/synergis)
 > - [Web 3.0](https://t.me/web3news)
@@ -99,6 +102,9 @@
 
 ##### Читаю книги: на некоторые делаю обзоры в блоге.
 
+> - [“Варгань, кропай, марай и пробуй” Шрини Пиллэй](https://konicaru.github.io/#книга-варгань-кропай-марай-и-пробуй-шрини--пиллэй)
+> - [Книга: "Графики которые убеждают всех" Александр Богачев](https://konicaru.github.io/#книга-графики-которые-убеждают-всех-александр-богачев)
+> - ["Думай медленно, решай быстро" Даниэль Канеман](https://konicaru.github.io/#книга-думай-медленно-решай-быстро-даниэль-канеман)
 > - [“В работу с головой.” Кэл Ньюпорт](https://konicaru.github.io/#в-работу-с-головой-кэл-ньюпорт)
 > - [“Изучаем Python.” Марк Луц](https://konicaru.github.io/#книга-изучаем-python-марк-луц-1)
 > - [“Код тайный язык информатики”. Чарлз Пецольд](https://konicaru.github.io/#книга-код-тайный-язык-информатики-чарлз-пецольд)
@@ -111,7 +117,7 @@
 
 |[Мой блог](https://konicaru.github.io/)|[Мой GitHub](https://github.com/konicaRu)|[Мой Linkedin](https://www.linkedin.com/in/dimkochetov/)|[Мой Facebook](https://www.facebook.com/konica1970)|[Телеграмм](https://t.me/konica1970)|
 
-[prokol35@gmail.com](prokol35@gmail.com)
+[dimkochetow@gmail.com](dimkochetow@gmail.com)
 
 ![](https://raw.githubusercontent.com/konicaRu/konicaru.github.io/master/pictures/Logo_Kochetov_cv.jpg)
 
