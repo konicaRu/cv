@@ -1,6 +1,6 @@
 #### *Curriculum vitae*
 
-# ![](https://raw.githubusercontent.com/konicaRu/konicaru.github.io/master/pictures/my_photo_150_cekl.jpg)Кочетов Дмитрий начинающий аналитик данных        
+# ![](https://raw.githubusercontent.com/konicaRu/konicaru.github.io/master/pictures/my_photo_150_cekl.jpg)Кочетов Дмитрий аналитик данных        
 
 |[Mоё резюме на hh.ru](https://vologda.hh.ru/resume/ff6aba3fff0857b2030039ed1f4b55414b6166)|Связаться со мной: [dimkochetow@gmail.com](dimkochetow@gmail.com)|
 
@@ -8,7 +8,7 @@
 
 ------
 
-*обновлял 5 августа 2020 года.*
+*обновлял 5 марта 2022 года.*
 
 Меня зовут Дмитрий Кочетов я родился 29 декабря 1970 года, я начинающий аналитик данных живу в городе Череповец Вологодской области
 
