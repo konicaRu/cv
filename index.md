@@ -1,6 +1,6 @@
 #### *Curriculum vitae*
 
-# ![](https://raw.githubusercontent.com/konicaRu/konicaru.github.io/master/pictures/my_photo_150_cekl.jpg)Кочетов Дмитрий аналитик данных        
+# ![](https://github.com/konicaRu/pictures_blog/blob/master/my_photo400_533.jpg?raw=true)Кочетов Дмитрий аналитик данных        
 
 |[Mоё резюме на hh.ru](https://vologda.hh.ru/resume/ff6aba3fff0857b2030039ed1f4b55414b6166)|Связаться со мной: [dimkochetow@gmail.com](dimkochetow@gmail.com)|
 
